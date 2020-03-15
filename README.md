@@ -3,8 +3,8 @@ One can run Debian Jessie Linux with X on [THEC64](https://retrogames.biz/thec64
 we swap Alt and Win keys. The other keys are fixed so that the keyboard works similar to C64, but with the goal that
 all ASCII characters should be easily typed, since ASCII is more important than PETSCII in Linux.
 
+Copy the folder to the USB flash drive.
 Run the install script inside Debian Jessie Linux for THEC64, then reboot.
-You may need to use `source`, if the script isn't executable.
 
 You find Debian Jessie for THEC64 and THEC64 MINI here:  
 https://thec64community.online/thread/487/custom-firmware-mod-fel-uart
