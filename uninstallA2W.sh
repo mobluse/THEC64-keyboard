@@ -1,5 +1,7 @@
 #/bin/sh
 cd
+rm .config/autostart/xmodmap.desktop
 rm .Xmodmap-A2W
-rm ~/.config/openbox/lxde-rc-A2W.xml
-rm ~/.config/autostart/xmodmap.desktop
+if [ -f .config/openbox/lxde-rc-org.xml ]; then
+    mv .config/openbox/lxde-rc-org.xml .config/openbox/lxde-rc.xml
+fi
