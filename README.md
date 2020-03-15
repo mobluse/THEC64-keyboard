@@ -5,6 +5,7 @@ all ASCII characters should be easily typed, since ASCII is more important than 
 
 Copy the folder to the USB flash drive.
 Run the install script inside Debian Jessie Linux for THEC64, then reboot.
+There is also an uninstall script.
 
 You find Debian Jessie for THEC64 and THEC64 MINI here:  
 https://thec64community.online/thread/487/custom-firmware-mod-fel-uart
