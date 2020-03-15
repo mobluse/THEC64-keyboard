@@ -15,3 +15,4 @@ use `setxkbmap`: e.g. `setxkbmap gb` or `setxkbmap fi`.
 ## References
 https://wiki.lxde.org/en/LXDE:Questions  
 https://wiki.archlinux.org/index.php/xmodmap  
+http://wiki.linuxquestions.org/wiki/List_of_Keysyms_Recognised_by_Xmodmap  
