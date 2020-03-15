@@ -1,13 +1,16 @@
 # THEC64-keyboard
-Use THEC64 with X in Debian Jessie Linux. Since THEC64 keyboard doesn't have Alt, we exchange Alt and Win key.
-The other keys are fixed so that the keyboard works similar to C64 in Linux with X.
+One can run Debian Jessie Linux with X on [THEC64](https://retrogames.biz/thec64). Since THEC64's keyboard doesn't have Alt,
+we swap Alt and Win keys. The other keys are fixed so that the keyboard works similar to C64, but with the goal that
+all ASCII characters should be easily typed, since ASCII is more important than PETSCII in Linux.
 
 Run the install script inside Debian Jessie Linux for THEC64, then reboot.
-
-It was intended that Shift+Down and Shift+Right should work as Up and Left, respectively, but this does not work now.
+You may need to use `source`, if the script isn't executable.
 
 You find Debian Jessie for THEC64 and THEC64 MINI here:  
 https://thec64community.online/thread/487/custom-firmware-mod-fel-uart
+
+This keyboard configuration is only relevant if you use the internal keyboard. If you use an external keyboard you can 
+use `setxkbmap`: e.g. `setxkbmap gb` or `setxkbmap fi`.
 
 ## References
 https://wiki.lxde.org/en/LXDE:Questions  
