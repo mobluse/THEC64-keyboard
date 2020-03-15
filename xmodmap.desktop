@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name[en_GB]=Xmodmap
+Comment[en_GB]=xmodmap ~/.Xmodmap-A2W
+Exec=/usr/bin/xmodmap /home/olimex/.Xmodmap-A2W
+Icon=application-default-icon
+X-GOME-Autostart-eabled=true
+Type=Application
