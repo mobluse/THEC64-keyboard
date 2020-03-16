@@ -38,6 +38,7 @@ keycode  98 = Up Down Up
 keycode 100 = Left Right Left
 keycode 102 = Right Left Right
 keycode 104 = Down Up Down
+keycode 133 = Super_L NoSymbol Super_L
 clear Mod1
 clear Mod4
 add Mod1    = Super_L
