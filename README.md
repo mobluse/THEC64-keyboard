@@ -7,14 +7,14 @@ The best program to test the keyboard with is Leafpad, since more characters wor
 One can use Shift+Down and Shift+Right for Up and Left, respectively ─ unfortunately this doesn't work in the terminals.
 Shift+cursor keys are used to mark text in Leafpad, but this doesn't work now ─ you can mark with a mouse.
 
-Hint: Restore is Tab, and Run/Stop is Esc ─ e.g. Ctrl+Run/Stop opens the Start menu, and THEC64+Tab repeated, cycles the open
-Windows. Shift+£ is Delete, and Del is Backspace.
+Hints: Restore on THEC64 is Tab on PC, and Run/Stop is Esc ─ e.g. Ctrl+Run/Stop opens the Start menu, and THEC64+Tab
+repeated, cycles the open Windows. Shift+£ is Delete, and Del is Backspace.
 
 You can type some international characters using Shift+Run/Stop and Shift+Return before typing the character, e.g. ë and é.
 
 Copy the folder to the USB flash drive.
-Run the install script inside Debian Jessie Linux for THEC64, then reboot.
-There is also an uninstall script.
+Run the install script inside Debian Jessie Linux for THEC64, then reboot (the image must be writable).
+There is also an uninstall script. This system does not change the internal flash, however, there is no warranty.
 
 You find Debian Jessie for THEC64 and THEC64 MINI here:  
 https://thec64community.online/thread/487/custom-firmware-mod-fel-uart
