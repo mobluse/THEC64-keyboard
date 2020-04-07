@@ -17,7 +17,7 @@ Run the install script inside Debian Jessie Linux for THEC64, then reboot (the i
 There is also an uninstall script. This system does not change the internal flash, however, there is no warranty.
 
 You find Debian Jessie for THEC64 and THEC64 MINI here:  
-https://thec64community.online/thread/487/custom-firmware-mod-fel-uart
+https://thec64community.online/thread/487/
 
 This keyboard configuration is only relevant if you use the internal keyboard. If you use an external keyboard you can 
 use `setxkbmap`: e.g. `setxkbmap gb` or `setxkbmap fi`, for UK and Finland/Sweden keyboards, respectively.
